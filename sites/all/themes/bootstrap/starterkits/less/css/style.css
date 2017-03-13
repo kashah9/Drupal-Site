@@ -1,0 +1,19 @@
+/**
+ * This file will be overwritten when the Bootstrap Framework source files
+ * are compiled using the Less CSS pre-processor.
+ */
+@media (min-width: 768px)
+.form-inline .form-control {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.slide-title {
+	font-size: 100px;
+}
+	background: bisque;
+}
+
+.image-css {
+	border-radius: 50%;
+}

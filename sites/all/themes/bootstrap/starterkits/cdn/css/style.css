@@ -1,0 +1,16 @@
+/**
+ * Place your custom styles here.
+ */
+@media (min-width: 768px)
+.form-inline .form-control {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.message-form {
+	background: bisque;
+}
+
+.image-css {
+	border-radius: 50%;
+}
